@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+#cao {
+    border: 5px solid red;
+    margin: 5px;
+    padding: 10px;
+}
+
+#bebe {
+    border: 10px dashed rgb(30, 255, 0);
+    margin: 5px;
+    padding: 10px;
+}
+
+#cachorro {
+    border: dotted 20px turquoise;
+    margin: 5px;
+    padding: 10px;
+}
+
+#cat {
+    border: inset 18px rgb(156, 156, 156);
+    margin: 5px;
+    padding: 10px;
+}
+
+#filho {
+    border: outset 16px rgb(66, 70, 122);
+    margin: 5px;
+    padding: 10px;
+}
